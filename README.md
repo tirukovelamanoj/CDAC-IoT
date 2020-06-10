@@ -1,1 +1,1 @@
-# CDAC-IoT
+# CDAC IoT Bootcamp
